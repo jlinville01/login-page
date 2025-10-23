@@ -9,12 +9,6 @@ The objective of this application was to create a login page with <Automation-Fr
 ## Setup
 
 ### Prerequisites
-- Node.js (v14 or higher) - [Download here](https://nodejs.org/)
-- npm (comes with Node.js)
-
-## Running Locally
-
-### Prerequisites
 - [Node.js](https://nodejs.org/) (v16 or higher)
 - npm (comes with Node.js)
 
