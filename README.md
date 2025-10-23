@@ -4,7 +4,7 @@
 
 ## About
 
-There are several ways of editing your application.
+The objective of this application was to create a login page with frontend tests.
 
 ## Setup
 
@@ -13,7 +13,7 @@ There are several ways of editing your application.
 git clone <YOUR_GIT_URL>
 
 # Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+cd login-page
 
 # Step 3: Install the necessary dependencies.
 npm i
