@@ -6,7 +6,13 @@
 
 The objective of this application was to create a login page with <Automation-Framework> frontend tests.
 
-## Running Locally
+## Setup
+
+### Prerequisites
+- Node.js (v14 or higher) - [Download here](https://nodejs.org/)
+- npm (comes with Node.js)
+
+### Running Locally
 
 ```sh
 # Install dependencies
