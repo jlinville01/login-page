@@ -12,17 +12,35 @@ The objective of this application was to create a login page with <Automation-Fr
 - Node.js (v14 or higher) - [Download here](https://nodejs.org/)
 - npm (comes with Node.js)
 
-### Running Locally
+## Running Locally
 
-```sh
-# Install dependencies
-npm install
+### Prerequisites
+- [Node.js](https://nodejs.org/) (v16 or higher)
+- npm (comes with Node.js)
 
-# Start the development server
-npm run dev
-```
+### Steps
 
-The application will be available at `http://localhost:8080`
+1. **Clone the repository**
+   ```sh
+   git clone https://github.com/jlinville01/video-player.git
+   cd video-player
+   ```
+
+2. **Install dependencies**
+   ```sh
+   npm install
+   ```
+
+3. **Start the development server**
+   ```sh
+   npm run dev
+   ```
+   - The app will be available at `http://localhost:8080`
+   
+4. **Run automation**
+   ```bash
+   npm run dev
+   ```
 
 ## Test Credentials
 
