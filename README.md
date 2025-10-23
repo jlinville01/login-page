@@ -1,10 +1,10 @@
-# Welcome to your Lovable project
+# Login Page
 
 ![Project logo](https://github.com/jlinville01/login-page/blob/main/assets/login-page-logo.png?raw=true)
 
 ## About
 
-The objective of this application was to create a login page with frontend tests.
+The objective of this application was to create a login page with <Automation-Framework> frontend tests.
 
 ## Setup
 
