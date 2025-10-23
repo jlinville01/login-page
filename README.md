@@ -6,21 +6,30 @@
 
 The objective of this application was to create a login page with <Automation-Framework> frontend tests.
 
-## Setup
+## Running Locally
 
 ```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+# Install dependencies
+npm install
 
-# Step 2: Navigate to the project directory.
-cd login-page
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Start the development server
 npm run dev
 ```
+
+The application will be available at `http://localhost:8080`
+
+## Test Credentials
+
+- **Email**: `test@test.com`
+- **Password**: `password`
+
+## Features
+
+- ✅ Login form with email/password validation
+- ✅ Protected dashboard route
+- ✅ Session management with localStorage
+- ✅ Logout functionality
+- ✅ Error handling and validation messages
 
 ## This project is built with
 
