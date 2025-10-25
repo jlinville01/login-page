@@ -31,10 +31,21 @@ The objective of this application was to create a login page with <Automation-Fr
    ```
    - The app will be available at `http://localhost:8080`
    
-4. **Run automation**
+4. **Change directories**
    ```bash
-   npm run dev
+   cd qa
    ```
+
+5. **Install dependencies**
+   ```bash
+   npm install
+   ```
+
+6. **Run automation**
+   ```bash
+
+   ```
+   
 
 ## Test Credentials
 
