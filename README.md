@@ -2,11 +2,7 @@
 
 ![Project logo](https://github.com/jlinville01/login-page/blob/main/assets/login-page-logo.png?raw=true)
 
-## About
-
-The objective of this application was to create a login page with <Automation-Framework> frontend tests.
-
-## Setup
+# Setup
 
 ### Prerequisites
 - [Node.js](https://nodejs.org/) (v16 or higher)
