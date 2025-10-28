@@ -12,8 +12,8 @@
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/jlinville01/video-player.git
-   cd video-player
+   git clone https://github.com/jlinville01/login-page.git
+   cd login-page
    ```
 
 2. **Install dependencies**
