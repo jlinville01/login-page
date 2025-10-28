@@ -39,7 +39,7 @@
 
 6. **Run automation**
    ```bash
-
+   npx cypress open
    ```
    
 
