@@ -41,20 +41,19 @@
    ```bash
    npx cypress open
    ```
-   
 
 ## Test Credentials
 
 - **Email**: `test@test.com`
 - **Password**: `password`
 
-## Features
+## Scenarios
 
-- ✅ Login form with email/password validation
-- ✅ Protected dashboard route
-- ✅ Session management with localStorage
-- ✅ Logout functionality
-- ✅ Error handling and validation messages
+- ✅ Empty email
+- ✅ Empty password
+- ✅ Invalid email
+- ✅ Invalid password
+- ✅ Successful login
 
 ## This project is built with
 
